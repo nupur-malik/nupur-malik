@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Nupur Malik
 
-<!--
-**nupur-malik/nupur-malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+* C++
+* Data Structures & Algorithms
+* React Native
+* Machine Learning
+* Computer Vision
+
+🛠️ Skills & Technologies
+
+* Python
+* C++
+* Git & GitHub
+* HTML
+* CSS
+* JavaScript
+* Machine Learning
+* React Native
+
+🎯 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Mobile App Development
+* Problem Solving
+* Open Source
+
+📫 Connect With Me
+
+* Email: [nupurmalik88@gmail.com]
+
+⚡ Fun Fact
+->I enjoy learning new technologies and building practical solutions that solve real-world problems.
+->Exploring the intersection of AI and software development through projects, hackathons, and continuous learning.
